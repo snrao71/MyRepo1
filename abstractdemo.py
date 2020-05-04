@@ -1,3 +1,4 @@
+# Abstract Base Class Demo
 from abc import ABC, abstractmethod
 
 class Sample(ABC):          # abstract class
